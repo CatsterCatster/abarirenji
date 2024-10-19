@@ -17,7 +17,7 @@ An append voice for the OpenUTAU program. Has 4 vocal modes; Normal, Tense, Weak
 - Type: UTAU
 - Languages: jp
 
-## JPN ROCK (VCV)
+## ROCK (VCV)
 A tense and strained voice. Has 4 pitches; C3, F3, A3, D4
 - Type: UTAU
 - Languages: jp
