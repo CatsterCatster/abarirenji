@@ -10,22 +10,22 @@ Renji is a young adult teacher who despises his job and is desperately searching
 ## DIFFSINGER
 A male singing voice with a smooth, gentle tone.
 - Type: Diffsinger
-- Languages: jp, en, fr, es, th
+- Languages: ja, en, fr, es, th
 
 ## OPEN (VCV) UTAU
 An append voice for the OpenUTAU program. Has 4 vocal modes; Normal, Tense, Weak, Vocal-Fry
 - Type: UTAU
-- Languages: jp
+- Languages: ja
 
 ## ROCK (VCV)
 A tense and strained voice. Has 4 pitches; C3, F3, A3, D4
 - Type: UTAU
-- Languages: jp
+- Languages: ja
 
 ## VOCALSHARP
 A smooth male singing voice. It's in a BETA stage.
 - Type: VocalSharp
-- Languages: jp
+- Languages: ja
 
 ## ENGLISH
 An English vocal that uses ARPASING. Mono-pitch; C3
@@ -35,4 +35,4 @@ An English vocal that uses ARPASING. Mono-pitch; C3
 ## TALK
 A Japanese speaking voice for the COEIROINK program
 - Type: MYCOEIROINK
-- Languages: jp
+- Languages: ja
