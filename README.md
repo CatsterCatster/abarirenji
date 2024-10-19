@@ -1,18 +1,33 @@
-# Your singer name
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Abari Renji
+Renji is a young adult teacher who despises his job and is desperately searching for a way out of it. He spends his free time singing and making music in hopes that one day, he can be a famous musician and quit his teaching job.
 
 ## General information
-- Gender: test
-- Height: 111m
-- Weight: 222g
-- Age: 33
+- Gender: Male
+- Height: Tall
+- Weight: 184lbs
+- Age: Young Adult (Not Defined)
 
-## First test bank
-Test description 1
+## DIFFSINGER
+A male singing voice with a smooth, gentle tone.
 - Type: Diffsinger
-- Languages: ru, jp
+- Languages: jp, en, fr, es, th
 
-## Second test bank
-Test description 2
+## JPN OPEN (VCV)
+An append voice for the OpenUTAU program. Has 4 vocal modes; Normal, Tense, Weak, Vocal-Fry
+- Type: UTAU
+- Languages: jp
+
+## JPN ROCK (VCV)
+A tense and strained voice. Has 4 pitches; C3, F3, A3, D4
+- Type: UTAU
+- Languages: jp
+
+## ENGLISH
+An English vocal that uses ARPASING. Mono-pitch; C3
 - Type: UTAU
 - Languages: en
+
+## TALK
+A Japanese speaking voice for the COEIROINK program
+- Type: MYCOEIROINK
+- Languages: jp
