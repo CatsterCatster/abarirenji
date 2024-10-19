@@ -22,6 +22,11 @@ A tense and strained voice. Has 4 pitches; C3, F3, A3, D4
 - Type: UTAU
 - Languages: jp
 
+## VOCALSHARP
+A smooth male singing voice. It's in a BETA stage.
+- Type: VocalSharp
+- Languages: jp
+
 ## ENGLISH
 An English vocal that uses ARPASING. Mono-pitch; C3
 - Type: UTAU
