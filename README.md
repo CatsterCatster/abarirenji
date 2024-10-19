@@ -12,7 +12,7 @@ A male singing voice with a smooth, gentle tone.
 - Type: Diffsinger
 - Languages: jp, en, fr, es, th
 
-## JPN OPEN (VCV)
+## OPEN (VCV) UTAU
 An append voice for the OpenUTAU program. Has 4 vocal modes; Normal, Tense, Weak, Vocal-Fry
 - Type: UTAU
 - Languages: jp
