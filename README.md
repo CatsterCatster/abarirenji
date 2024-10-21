@@ -30,5 +30,10 @@ An English vocal that uses ARPASING. Mono-pitch; C3
 
 ## TALK
 A Japanese speaking voice for the COEIROINK program
-- Type: MYCOEIROINK
+- Type: coeiroink
+- Languages: ja
+
+## VOCALSHARP
+A male singing voice for the Vocalsharp program. In a BETA stage.
+- Type: vocalsharp
 - Languages: ja
