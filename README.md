@@ -33,7 +33,7 @@ A Japanese speaking voice for the COEIROINK program
 - Type: coeiroink
 - Languages: ja
 
-## VOCALSHARP
+## vocalsharp
 A male singing voice for the Vocalsharp program. In a BETA stage.
 - Type: vocalsharp
 - Languages: ja
